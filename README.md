@@ -11,6 +11,7 @@ Entry-level Security Analyst passionate about threat detection and vulnerability
 
 ## 📁 Projects
 1. [Home Cybersecurity Lab]
+2. [Port Scanner]
 
 ## 📜 Certifications
 - Google Cybersecurity Certificate 
