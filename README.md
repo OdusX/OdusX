@@ -12,6 +12,8 @@ Entry-level Security Analyst passionate about threat detection and vulnerability
 ## 📁 Projects
 1. [Home Cybersecurity Lab]
 2. [Port Scanner]
+3. [SYN FLOOD Attack analysis with Wireshark]
+4. [Data Loss Prevention Policy]
 
 ## 📜 Certifications
 - Google Cybersecurity Certificate 
