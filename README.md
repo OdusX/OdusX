@@ -4,7 +4,7 @@
 Entry-level Security Analyst passionate about threat detection and vulnerability assessment.
 
 ## 🔧 Technical Skills
-- **Security Tools**: Wireshark, Nmap, Metasploit, Burp Suite.
+- **Security Tools**: Wireshark, Splunk, Nessus, Nmap, Metasploit, Burp Suite.
 - **Programming**: Python, SQL.
 - **Operating Systems**: Kali Linux, Ubuntu, Windows
 - **Specializations**: Security Operations, Network Analysis and Linux system Administration.
@@ -14,6 +14,8 @@ Entry-level Security Analyst passionate about threat detection and vulnerability
 2. [Port Scanner]
 3. [SYN FLOOD Attack analysis with Wireshark]
 4. [Data Loss Prevention Policy]
+5. [Nessus-Project]
+6. [SIEM Threat Detection]
 
 ## 📜 Certifications
 - Google Cybersecurity Certificate 
